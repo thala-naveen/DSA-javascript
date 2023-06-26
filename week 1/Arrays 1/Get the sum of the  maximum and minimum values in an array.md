@@ -14,17 +14,17 @@ A number
 
 ## Test Case 1:
 Example input:
-1,2,3,4,5
+5 2 9 1 7
 
 Example output:
-5
+10
 
 ## Test Case 2:
 Example input:
-7,8,9,10,11,12,13,14,15
+-10 0 100 -50 20
 
 Example output:
-9
+90
 
 ## Level: Easy
 
