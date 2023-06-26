@@ -11,9 +11,9 @@ dimensions"
 
 
 ## Input Format:
-First Line contains a number representing rows
-Second line - a number representing cols
-from Third line - elements
+- First Line contains a number representing rows
+- Second line - a number representing cols
+- from Third line - elements
 
 ## Output Format:
 An Array with sub array of resulted elements

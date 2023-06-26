@@ -8,9 +8,9 @@ in an array
 
 
 ## Input Format:
-First Line contains comma separated numbers representing the elements of an array
-Second line - the numbers which should be replaced
-Third line - the new number which should be replaced
+- First Line contains comma separated numbers representing the elements of an array
+- Second line - the numbers which should be replaced
+- Third line - the new number which should be replaced
 
 ## Output Format:
 An array of numbers

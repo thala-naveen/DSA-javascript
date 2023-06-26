@@ -6,8 +6,8 @@ Take size of an array and elements as the input
 and find the maximum product of the subarray
 
 ## Input Format:
-First Line contains a number representing size of the input array
-from Second line - elements
+- First Line contains a number representing size of the input array
+- from Second line - elements
 
 ## Output Format:
 An Array with sub array of resulted elements
