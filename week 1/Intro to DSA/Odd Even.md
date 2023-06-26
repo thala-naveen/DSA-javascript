@@ -21,7 +21,8 @@ Odd
 
 ## Test Case 2:
 Example input:
-6 
+6
+ 
 Example output:
 Even
 
