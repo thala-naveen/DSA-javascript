@@ -29,13 +29,14 @@ Example output:
 ## Level: Easy
 
 ## Hints:
-- Utilize the length property of the array to 
-get the count of elements.
-- The length property returns the 
-number of elements in the array.
+- Think about how you can find the maximum and minimum values in the array.
+Initialize variables to keep track of the maximum and minimum values while iterating through the array.
+- After finding the maximum and minimum values, return their sum.
 
 ## Approach:
-- Take input from the user and store it in an array.
-step 1 - Use the length property of the array to get the count of elements.
-step 2 -  Return the count.
+- Convert the user input string of space-separated numbers into an array.
+- Initialize max and min variables to the first element of the array.
+- Iterate through the remaining elements of the array.
+- For each element, update the max and min values if necessary.
+- After iterating through the entire array, return the sum of max and min.
 
