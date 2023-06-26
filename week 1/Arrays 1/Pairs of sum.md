@@ -17,16 +17,16 @@ An Array of pairs in the sub-array
 
 ## Test Case 1:
 Sample Input:
-2,4,6,8,10
-12
+- 2,4,6,8,10
+- 12
 
 Sample Output:
 [[2, 10], [4, 8]]
 
 ## Test Case 2:
 Example input:
-1,1,1,1,1
-2
+- 1,1,1,1,1
+- 2
 
 Example output:
 [[1, 1], [1, 1], [1, 1], [1, 1], [1, 1]]

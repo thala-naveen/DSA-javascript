@@ -16,9 +16,9 @@ tab separted matrix
 
 ## Test Case 1:
 Example input:
-2
-2
-1
+- 2
+- 2
+- 1
 2
 3
 4
@@ -29,9 +29,9 @@ Example output:
 
 ## Test Case 2:
 Example input:
-2
-4
-1
+- 2
+- 4
+- 1
 2
 3
 4

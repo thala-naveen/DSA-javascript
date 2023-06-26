@@ -17,21 +17,21 @@ An array of numbers
 
 ## Test Case 1:
 Example input:
-1,2,3,2,4,2,5
-2
-6
+- 1,2,3,2,4,2,5
+- 2
+- 6
 
 Example output:
-[1, 6, 3, 6, 4, 6, 5]
+- [1, 6, 3, 6, 4, 6, 5]
 
 ## Test Case 2:
 Example input:
-5,5,5,5
-5
-2
+- 5,5,5,5
+- 5
+- 2
 
 Example output:
-[2, 2, 2, 2]
+- [2, 2, 2, 2]
 
 ## Level: Easy
 
