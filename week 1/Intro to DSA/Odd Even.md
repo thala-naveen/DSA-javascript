@@ -10,7 +10,7 @@ the number is even or odd
 First Line contains a number
 
 ## Output Format:
-Boolean value True/False
+A String
 
 ## Test Case 1:
 Example input:
