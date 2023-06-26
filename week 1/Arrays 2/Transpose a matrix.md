@@ -7,9 +7,9 @@ of that 2d Matrix
 
 
 ## Input Format:
-First Line contains a number representing rows
-Second line - a number representing cols
-from Third line - elements
+- First Line contains a number representing rows
+- Second line - a number representing cols
+- from Third line - elements
 
 ## Output Format:
 tab separted matrix
