@@ -7,8 +7,8 @@ product of lcm and hcf
 
 
 ## Input Format:
-First Line contains a number
-Second Line contains a number
+- First Line contains a number
+- Second Line contains a number
 
 ## Output Format:
 A number

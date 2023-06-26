@@ -9,8 +9,8 @@ element that does not have a duplicate in the array.
 
 
 ## Input Format:
-The input is taken as a prompt from the user. 
-The user is prompted to enter the array elements 
+- The input is taken as a prompt from the user. 
+- The user is prompted to enter the array elements 
 separated by spaces.
 
 ## Output Format:

@@ -8,8 +8,8 @@ equal to sum value S.
 
 
 ## Input Format:
-First Line contains comma separated numbers representing the elements of an array
-Second Line contains the sum value
+- First Line contains comma separated numbers representing the elements of an array
+- Second Line contains the sum value
 
 
 ## Output Format:

@@ -9,8 +9,8 @@ the arrays.
 
 
 ## Input Format:
-First Line contains comma separated numbers representing the elements of an array
-Second Line contains comma separated numbers representing the elements of an array
+- First Line contains comma separated numbers representing the elements of an array
+- Second Line contains comma separated numbers representing the elements of an array
 
 
 ## Output Format:
