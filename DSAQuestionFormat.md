@@ -11,12 +11,12 @@ problem statement
 ## Output Format:
 
 ## Test Case 1:
-Example input: 
-Example output:
+sample input: 
+sample output:
 
 ## Test Case 2:
-Example input: 
-Example output:
+sample input: 
+sample output:
 
 
 ## Level: Easy/Medium/Hard
