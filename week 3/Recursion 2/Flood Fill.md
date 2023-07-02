@@ -46,7 +46,7 @@ sample output:
 ]
 
 
-## Level: Medium
+## Level: Hard
 
 ## Hints:
 - Use recursion to explore adjacent cells.
