@@ -4,6 +4,10 @@ Eulerian Path
 ## Problem Statement:
 Write a program to determine if a given directed graph has an Eulerian path or circuit. Given the graph as an adjacency list, your task is to check if the graph has an Eulerian path or circuit and return the corresponding result.
 
+An Eulerian Path is a path in a graph that visits every edge exactly once. It is named after the Swiss mathematician Leonhard Euler, who first studied and characterized such paths.
+
+In graph theory, an Eulerian Path exists in a connected graph if and only if the graph has exactly zero or two vertices with odd degrees. An Eulerian Circuit, on the other hand, is an Eulerian Path that starts and ends at the same vertex.
+
 ## Input Format:
 The user is prompted to enter the graph as an adjacency list, where each row represents a node, and each comma-separated value represents an adjacent node of that node. The rows are separated by semicolons.
 
