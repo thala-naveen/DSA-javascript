@@ -15,20 +15,21 @@ The kth smallest element in the binary search tree (integer)
 
 ## Test Case 1:
 Sample Input:
-7
-4 2 6 1 3 5 7
-3
+- 7
+- 4 2 6 1 3 5 7
+- 3
 
 Sample Output:
 3
 
 ## Test Case 2:
 sample input: 
-1 2 3
-1 3 2
+- 5
+- 10 7 15 5 12
+- 1
 
 sample output:
-The two binary trees are not identical
+5
 
 
 ## Level: Hard
