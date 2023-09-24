@@ -23,11 +23,11 @@ sample Input
 abcdabcde
 
 Sample Output
-d
+e
 
 ## Test Case 2:
 Sample input: 
-aabbccd
+abcdabcd
 
 Sample output:
 No non-repeating characters found

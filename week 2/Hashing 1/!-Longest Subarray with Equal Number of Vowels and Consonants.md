@@ -26,14 +26,14 @@ sample Input
 abcdeiouiop
 
 Sample Output
-8
+12
 
 ## Test Case 2:
 Example input:
 aeiouAEIOU
 
 Example output:
-10
+0
 
 ## Level: Medium
 

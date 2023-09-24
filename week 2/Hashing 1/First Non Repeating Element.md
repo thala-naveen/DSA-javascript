@@ -23,7 +23,7 @@ Exp:The first non-repeating character in the string is "c".
 
 ## Test Case 2:
 Sample Input:
-xyzxyz
+xyzyz
 
 Sample Output:
 x

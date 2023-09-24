@@ -21,11 +21,11 @@ Hashing algorithm.
 
 ## Test Case 1:
 sample Input:
-- 12 apple
-- 43 banana
-- 15 orange
-- 27 mango
-- 37 pineapple
+ 12 apple
+ 43 banana
+ 15 orange
+ 27 mango
+ 37 pineapple
 
 Sample Output:
 HashTable 1:
@@ -39,11 +39,11 @@ HashTable 2:
 
 ## Test Case 2:
 Saample input:
-- 1 apple
-- 2 banana
-- 3 orange
-- 4 mango
-- 5 pineapple
+ 1 apple
+ 2 banana
+ 3 orange
+ 4 mango
+ 5 pineapple
 
 Sample output:
 HashTable 1:

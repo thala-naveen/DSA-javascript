@@ -24,7 +24,7 @@ nat
 bat
 
 Sample Output
-[["ate","eat","tea"],["bat"],["nat","tan"]]
+[["eat","tea","ate"],["tan,nat"],["bat"]]
 
 The output groups the anagrams together:
 The anagrams "ate", "eat", and "tea" are grouped together.
